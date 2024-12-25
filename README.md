@@ -30,11 +30,10 @@ The objective of this project is to analyze sales trends during the Christmas se
 
 ## Insights Delivered
 * Identified that Black Friday was the most significant revenue driver, followed by Christmas Markets.
-* Found that sunny weather increased sales by 30%, suggesting outdoor shopping plays a vital role.
-* Highlighted that women drove the majority of sales, particularly during Black Friday, in categories like fashion and accessories.
-* Revealed that online sales accounted for 70% of revenue, with electronics and fashion being the top-performing categories.
+* Found that rainy weather increased sales by 30%.
+* Highlighted that women drove the majority of sales, particularly during Black Friday.
+* Revealed that online sales accounted for 70% of revenue, with electronics and toys being the top-performing categories.
 * Discovered that late deliveries reduced repeat purchases by 15%, underlining the importance of logistics during peak periods.
-* Top 5 products like Wireless Earbuds and Smartwatches outperformed due to heavy discounts, while bottom 5 products lacked promotional efforts.
 
 ## Visualization Tools
 Tool used🛠️: Power BI
